@@ -5,7 +5,7 @@ const Contact = () => {
     <div>
       <h1>
         Number: 09054647310 <br />
-        Facebook: gene.espejo.3 <br />
+        Facebook: <a href="https://www.facebook.com/gene.espejo.3">Gene Espejo</a><br />
         email: demoneyesrhada@gmail.com
       </h1>
     </div>
