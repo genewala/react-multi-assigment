@@ -5,7 +5,25 @@ ul {
     justify-content: space-between;
 }
 
-img {
-    height: 100%;
-    wie
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
 }
+
+.skills-main {
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.main-right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+

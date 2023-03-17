@@ -21,7 +21,7 @@ Weight: 				95 lbs.
 EDUCATIONAL BACKGROUND
 </h1>
 <h2>
-Associate information technology <br />
+Associate information Technology <br />
 Tarlac State University <br />
 June 2011 - April 2012 <br />
 </h2>
@@ -36,11 +36,16 @@ Don Bosco Technical Institute Tarlac<br />
 March 2002
 </h2>
 
+<h2>
+  Contact Info<br />
+        Number: 09054647310 <br />
+        Facebook: <a href="https://www.facebook.com/gene.espejo.3" target="_blank">Gene Espejo</a><br />
+        email: demoneyesrhada@gmail.com
+</h2>
 
 
 
-
-    </div>
+</div>
   )
 }
 
