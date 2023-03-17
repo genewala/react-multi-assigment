@@ -16,7 +16,7 @@ const Home = () => {
         }} /></div>
         <div className="main-right">
           <div>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat porro debitis amet nemo suscipit praesentium labore quidem facilis provident sunt. Voluptates expedita dignissimos nisi officia corrupti et omnis esse hic.
+            Hi my name is Gene
           </div>
          
 
