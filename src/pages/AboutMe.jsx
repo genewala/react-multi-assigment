@@ -21,6 +21,11 @@ Weight: 				95 lbs.
 EDUCATIONAL BACKGROUND
 </h1>
 <h2>
+Full-Stack Web Development Course
+KODEGO PH 2022
+
+</h2>
+<h2>
 Associate information Technology <br />
 Tarlac State University <br />
 June 2011 - April 2012 <br />
